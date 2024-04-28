@@ -52,7 +52,7 @@ You can run the YouTube playlist downloader program using Python directly or thr
 
 1. Download the image:
     ```bash
-    docker push kyrolloszakaria/youtube_playlist_downloader:tagname
+    docker pull kyrolloszakaria/youtube_playlist_downloader:latest
     ```
 2. Download Xming from [here](https://sourceforge.net/projects/xming/).
 
