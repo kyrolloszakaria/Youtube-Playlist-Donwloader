@@ -7,3 +7,6 @@ playlist_videos.txt
 __pycache__
 settings.json
 overview.md
+/build
+/dist
+main.spec
