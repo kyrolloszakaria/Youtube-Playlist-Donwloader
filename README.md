@@ -33,7 +33,8 @@ This is a simple YouTube playlist downloader program that allows you to easily d
     ```bash
     pip install -r requirements.txt
     ```
-4.  Get your API key from [Google Cloud Console](https://console.cloud.google.com/cloud-resource-manager). And save it into `private.py` file in the same working directory. It is free, don't worry :wink:. 
+4.  Get your YouTube Data API v3 key from [Google Cloud Console](https://console.cloud.google.com/cloud-resource-manager). And save it into `private.py` file in the same working directory. It is free, don't worry :wink:. 
+
 ## Usage
 
 You can run the YouTube playlist downloader program using Python directly or through Docker.

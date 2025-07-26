@@ -10,3 +10,4 @@ overview.md
 /build
 /dist
 main.spec
+/.venv
